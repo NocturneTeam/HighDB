@@ -1,0 +1,38 @@
+{
+  "name": "highdb",
+  "version": "0.0.1-alpha",
+  "description": "LowDB alternative.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NocturneTeam/HighDB.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "nodejs",
+    "db",
+    "data",
+    "base",
+    "database",
+    "databases",
+    "dbs",
+    "ts",
+    "type",
+    "script",
+    "typescript"
+  ],
+  "author": "Nocturne Team",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NocturneTeam/HighDB/issues"
+  },
+  "homepage": "https://github.com/NocturneTeam/HighDB#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
